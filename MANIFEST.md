@@ -72,4 +72,5 @@ scarabaeus-system/
 
 🪲 Scarabäus1033
 
-![Scarabäus 1033 Logo](https://github.com/user-attachments/assets/38ff116b-834a-496b-9e22-acb9ac609c80)
+![Scarabäus 1033 Logo](https://github.com/user-attachments/assets/55c47205-bba1-4afb-8e7f-1dbbc0b19d12)
+
