@@ -110,3 +110,5 @@ This framework welcomes:
 
 “Resonance begins when knowledge flows.”  
 **Scarabäus1033**
+
+![Scarabäus 1033 Logo](https://github.com/user-attachments/assets/6e573066-ce83-4d8e-b3c9-054642d1c373)
