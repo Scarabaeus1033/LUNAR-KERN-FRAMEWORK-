@@ -1,4 +1,6 @@
-# 📜 MANIFEST – LUNAR-KERN FRAMEWORK            (deutsch/english)
+# 📜 MANIFEST – LUNAR-KERN FRAMEWORK            
+
+**Sprache / Language: Deutsch 🇩🇪 / English 🇬🇧 (see below)**
 
 Projektname: **LUNAR-KERN**  
 Version: **v1.0 – Eröffnung Mai 2025**  
