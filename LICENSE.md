@@ -31,3 +31,12 @@ Any use of this material in institutional, governmental, or commercial contexts 
 ---
 
 © 2025 Scarabäus1033 / Thomas K.R. Hofmann, FFM/Rödelheim – All rights reserved under CC BY-NC-SA 4.0
+
+
+![BY-NC-SA 4 0](https://github.com/user-attachments/assets/628b8535-df9a-4a01-8b0e-5c96d77557dc)
+
+
+
+
+
+
