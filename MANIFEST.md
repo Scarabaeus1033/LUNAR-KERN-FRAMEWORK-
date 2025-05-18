@@ -1,114 +1,75 @@
-# 📜 MANIFEST – LUNAR-KERN FRAMEWORK            
+# 🪲 SCARABÄUS-SYSTEM
 
-**Sprache / Language: Deutsch 🇩🇪 / English 🇬🇧 (see below)**
+**Language / Sprache: English 🇬🇧 / Deutsch 🇩🇪**
 
-Projektname: **LUNAR-KERN**  
-Version: **v1.0 – Eröffnung Mai 2025**  
-Autor: **Scarabäus1033 / Thomas K.R. Hofmann**  
-Ort: **Frankfurt am Main / Rödelheim**  
-Web: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
-Lizenz: **CC BY-NC-SA 4.0**
+A modular, open science framework exploring resonance through geometry, time, temperature, material interaction, and symbolic logic.
+
+Ein modulares Open-Science-System zur Erforschung von Resonanz – über Geometrie, Zeit, Temperatur, Materialinteraktion und symbolische Ordnung.
 
 ---
 
-## 🌕 URSPRUNG
+## 🌐 VISION / VISION
 
-Dieses Projekt entspringt einer langen Reihe interdisziplinärer Studien über Resonanz, Temperaturachsen, harmonische Felder, Zahlenzyklen und symbolische Ordnungen.  
-Es wurde entwickelt, um Unsichtbares sichtbar zu machen – mit einfachsten Mitteln und maximaler Bedeutung.
+**EN:**  
+The Scarabäus-System unites interdisciplinary research into a living knowledge architecture:  
+Temperature becomes force, numbers become resonance, materials become antennas.  
+Each module explores a unique field of interaction – scientific, symbolic, didactic.
 
----
-
-## 🎯 ZIEL
-
-- Neue Wege der Erkenntnis zwischen Physik, Geometrie und Sprache zeigen  
-- DIY-Wissenschaft für Kinder, Lehrer:innen, Kosmische Tüftler & Künstler:innen ermöglichen  
-- Resonanzfelder ohne Strom oder Computer messbar machen  
-- Eine offene Plattform schaffen, in der Wissenschaft, Symbolik und Kosmologie gemeinsam erforscht werden
+**DE:**  
+Das Scarabäus-System vereint interdisziplinäre Forschung in einer lebendigen Wissensarchitektur:  
+Temperatur wird zur Kraft, Zahlen werden zu Resonanz, Materialien zu Antennen.  
+Jedes Modul erforscht ein eigenes Feld – wissenschaftlich, symbolisch, didaktisch.
 
 ---
 
-## 🛡️ SCHUTZ & BEDEUTUNG
+## 🔹 MODULES / MODULE
 
-Dieses Werk steht unter **Creative Commons BY-NC-SA 4.0**.  
-Es darf **frei geteilt, angepasst und weiterentwickelt**, jedoch **nicht kommerziell verwertet** werden.  
-Jede Nutzung in institutionellem, kommerziellem oder medialem Kontext bedarf schriftlicher Genehmigung.
+| Module                   | Description (EN)                                   | Beschreibung (DE)                               | Status |
+|--------------------------|----------------------------------------------------|--------------------------------------------------|--------|
+| `🌕 lunar-kern-framework` | Thermal resonance, pendulums, aluminum, water      | Thermo-Resonanz, Pendel, Aluminium, Wasser       | ✅ |
+| `📐 apple-wheel-geometry` | Rotational harmonics, golden shapes                | Rotationsharmonik, Goldene Formen                | ⬜ |
+| `🔢 prime-grid-harmonics` | Prime cycles, P = R / T, 24-grid resonance          | Primzahlen, R/T = P, 24er-Gitter                 | ⬜ |
+| `🌍 stellar-navigation`   | Rödelheim projections, celestial alignments        | Rödelheim-Projektion, Himmelsachsen              | ⬜ |
 
-Die Urheberschaft von **Scarabäus1033 / Thomas K.R. Hofmann** ist dauerhaft zu nennen.  
-Dieses Projekt stellt einen eigenständigen Forschungsansatz dar – unabhängig von bestehenden Lehrmeinungen.
-
----
-
-## 🤝 EINLADUNG
-
-Dieses Framework ist offen für:
-- Forschende und Künstler:innen, die mitdenken möchten  
-- Pädagog:innen, die neue didaktische Wege gehen wollen  
-- Entwickler:innen und Visualisierer:innen, die Resonanz sichtbar machen möchten  
-- Leser:innen, die mehr als nur Informationen suchen – sondern Sinn
+*Each module is self-contained and licensed under the Scarabäus-System.*  
+*Jedes Modul ist eigenständig und unter der Scarabäus-System-Lizenz geschützt.*
 
 ---
 
-## 🪲 SIGNATUR
+## 📜 LICENSE & PROTECTION / LIZENZ & SCHUTZ
 
-„Resonanz beginnt, wenn Wissen fließt.“  
-**Scarabäus1033**
+This entire framework is published under  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).**
 
----
+Das gesamte System steht unter der  
+**Creative Commons Lizenz: Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International.**
 
----
+🔗 [Full License (EN)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+🔗 [Lizenz ansehen (DE)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
 
-# 📜 MANIFESTO – LUNAR-KERN FRAMEWORK (ENGLISH VERSION)
-
-Project name: **LUNAR-KERN**  
-Version: **v1.0 – Release May 2025**  
-Author: **Scarabäus1033 / Thomas K.R. Hofmann**  
-Location: **Frankfurt am Main / Rödelheim, Germany**  
-Web: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
-License: **CC BY-NC-SA 4.0**
+All institutional or commercial use requires written permission by:  
+**Scarabäus1033 / Thomas K.R. Hofmann, Frankfurt am Main – Rödelheim**
 
 ---
 
-## 🌕 ORIGIN
+## 🧾 STRUCTURE / STRUKTUR
 
-This project originates from a long line of interdisciplinary studies on resonance, temperature axes, harmonic fields, prime number cycles, and symbolic orders.  
-It was developed to make the invisible visible – using the simplest materials and the deepest intent.
+```bash
+scarabaeus-system/
+├── LICENSE.md               ← Globaler Lizenztext
+├── README.md                ← Diese Projektübersicht
+├── MODULES/                 ← Einzelne Forschungsprojekte
+│   └── lunar-kern-framework.md
+├── DOCS/
+│   ├── scarabaeus-manifest.md   ← Ursprung & Idee
+│   ├── roadmap.md               ← Zukunftspläne
+│   └── symbols.md               ← Begriffserklärungen
 
----
 
-## 🎯 PURPOSE
 
-- To explore new forms of insight between physics, geometry and language  
-- To enable DIY science for children, teachers, makers and artists  
-- To demonstrate how temperature creates measurable resonance – without electricity  
-- To build an open platform where science, symbolism and cosmology meet
+“Resonance begins when knowledge flows.”
+„Resonanz beginnt, wenn Wissen fließt.“
 
----
+🪲 Scarabäus1033
 
-## 🛡️ PROTECTION & INTENT
-
-This work is licensed under **Creative Commons BY-NC-SA 4.0**.  
-It may be **freely shared, adapted and extended**, but **not used commercially** without prior written permission.
-
-All future uses in academic, institutional or commercial settings must cite the author:  
-**Scarabäus1033 / Thomas K.R. Hofmann**.
-
-This project represents an independent research initiative beyond traditional paradigms.
-
----
-
-## 🤝 INVITATION
-
-This framework welcomes:
-- Researchers and artists interested in joining the resonance  
-- Educators seeking new didactic approaches  
-- Developers and visual thinkers ready to bring it to life  
-- Readers seeking more than information – seeking meaning
-
----
-
-## 🪲 SIGNATURE
-
-“Resonance begins when knowledge flows.”  
-**Scarabäus1033**
-
-![Scarabäus 1033 Logo](https://github.com/user-attachments/assets/6e573066-ce83-4d8e-b3c9-054642d1c373)
+![Scarabäus 1033 Logo](https://github.com/user-attachments/assets/38ff116b-834a-496b-9e22-acb9ac609c80)
