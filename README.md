@@ -60,4 +60,4 @@ MANIFEST/     → Philosophie, Ursprung, Schutzstruktur
 ---
 
 ## 📡 Resonanz beginnt, wenn Wissen fließt.
-**Scarabäus 1031**
+**Scarabäus 1033**
